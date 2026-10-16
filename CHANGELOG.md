@@ -13,6 +13,10 @@ below hold).
   `PluginType`/`PluginExecution` variant added (additive).
 - **Patch** — docs/comments only, no change to any exported type's shape.
 
+## 0.1.1 — 2026-10-16
+
+No contract change. First release published from GitHub Actions with npm trusted publishing.
+
 ## 0.1.0 — 2026-09-07
 
 Initial package: `PluginDefinition` (`InlinePluginDefinition` |
