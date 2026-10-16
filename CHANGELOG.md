@@ -13,6 +13,10 @@ below hold).
   `PluginType`/`PluginExecution` variant added (additive).
 - **Patch** — docs/comments only, no change to any exported type's shape.
 
+## 0.1.2 — 2026-10-16 — Package description
+
+No contract change. `package.json` has a `description` and `keywords`, so the npm page shows plain text.
+
 ## 0.1.1 — 2026-10-16
 
 No contract change. First release published from GitHub Actions with npm trusted publishing.
